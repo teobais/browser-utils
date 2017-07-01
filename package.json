@@ -1,0 +1,21 @@
+{
+  "name": "browser-utils",
+  "version": "0.0.1",
+  "description": "A browser utilities package",
+  "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/toubou91/browser-utils.git",
+    "type": "git"
+  },
+  "keywords": [
+    "browser",
+    "utils",
+    "helper"
+  ],
+  "author": "Thodoris Bais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toubou91/browser-utils/issues"
+  },
+  "homepage": "https://github.com/toubou91/browser-utils#readme"
+}
